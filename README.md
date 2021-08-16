@@ -2,7 +2,7 @@ To run the app just type: npm start.
 
 Good news: This app can easily be deployed in your desktop because it uses the localstorage of the web browser.
 
-# =======================================
+# ===
 
 # Getting Started with Create React App
 
